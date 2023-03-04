@@ -6,7 +6,7 @@ Acredito que a descrição que Freed Books dá às alegrias e infelicidades do o
   
 <br>
 
-<div align="right">
+<div align="center">
   <a href="mailto:dlmacedo9@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank">
   </a>
