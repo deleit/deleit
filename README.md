@@ -2,7 +2,7 @@
 
 Eu sou o Deivison, tecnólogo em Análise e Desenvolvimento de Sistemas com experiência em desenvolvimento front-end com React
 
-Acredito que a descrição que Fred Books dá às alegrias e infelicidades do ofício de programação, no clássico The Mythical Man-Month, são extremamente precisas. Profundamente motivado por essas alegrias, sou uma daquelas pessoas que creem que elas superam em muito as aflições citadas pelo autor
+Acredito que a descrição que Fred Brooks dá às alegrias e infelicidades do ofício de programação, no clássico The Mythical Man-Month, são extremamente precisas. Profundamente motivado por essas alegrias, sou uma daquelas pessoas que creem que elas superam em muito as aflições citadas pelo autor
   
 <br>
 
